@@ -1,0 +1,11 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "cSpell.language": "en,ru",
+    "cSpell.words": [
+      "Новобутаково",
+      "composables",
+      "middlewares",
+      "pinia",
+      "simplebar"
+    ],
+}
