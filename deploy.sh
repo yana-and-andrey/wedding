@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A
 git commit -m 'New Deployment'
-git push -f git@github.com:yana-and-andrey/yana-and-andrey.git master:gh-pages
+git push -f git@github.com:yana-and-andrey/wedding.git master:gh-pages
 
 cd -
