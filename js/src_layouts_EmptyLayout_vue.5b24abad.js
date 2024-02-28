@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwedding_yana_and_andrey=self.webpackChunkwedding_yana_and_andrey||[]).push([["src_layouts_EmptyLayout_vue"],{506:(a,e,s)=>{s.r(e),s.d(e,{default:()=>u});var n=s(252);const t={class:"empty-layout"},d={class:"main"},u=(0,n.aZ)({__name:"EmptyLayout",setup:a=>(a,e)=>((0,n.wg)(),(0,n.iD)("div",t,[(0,n._)("main",d,[(0,n.WI)(a.$slots,"default")])]))})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwedding_yana_and_andrey=self.webpackChunkwedding_yana_and_andrey||[]).push([["locale-en-json"],{5:e=>{e.exports={hello:"Hello!"}}}]);
